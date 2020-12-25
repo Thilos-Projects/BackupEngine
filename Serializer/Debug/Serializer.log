@@ -1,0 +1,22 @@
+﻿  tests.cpp
+G:\C++Projekte\renderEngine\Serializer\FileWriter.h(19,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+G:\C++Projekte\renderEngine\Serializer\FileWriter.h(54,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+G:\C++Projekte\renderEngine\Serializer\Objects.h(26,25): warning C4099: "ComponentFactory": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+G:\C++Projekte\renderEngine\Serializer\Objects.h(26): message : Siehe Deklaration von "ComponentFactory"
+G:\C++Projekte\renderEngine\Serializer\Objects.h(28,51): warning C4356: "baseFactory<Component>::map": Statisches Datenmember darf nicht über eine abgeleitete Klasse initialisiert werden
+G:\C++Projekte\renderEngine\Serializer\Objects.h(91,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+G:\C++Projekte\renderEngine\Serializer\Objects.h(158,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+G:\C++Projekte\renderEngine\Serializer\Objects.h(169,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+G:\C++Projekte\renderEngine\Serializer\Objects.h(178,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+G:\C++Projekte\renderEngine\Serializer\Objects.h(196,42): warning C4356: "baseSingleton<P>::instance": Statisches Datenmember darf nicht über eine abgeleitete Klasse initialisiert werden
+          with
+          [
+              P=ObjectStorrage
+          ]
+G:\C++Projekte\renderEngine\Serializer\Objects.h(243,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+G:\C++Projekte\renderEngine\Serializer\Objects.h(276,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+G:\C++Projekte\renderEngine\Serializer\Objects.h(339,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+G:\C++Projekte\renderEngine\Serializer\Objects.h(363,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+G:\C++Projekte\renderEngine\Serializer\Objects.h(365,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+G:\C++Projekte\renderEngine\Serializer\Objects.h(367,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Serializer.vcxproj -> G:\C++Projekte\renderEngine\Debug\Serializer.exe
